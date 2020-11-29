@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Josh from Texas.
+
+[![Josh's github stats](https://github-readme-stats.vercel.app/api?username=mcnortonjosh)](https://github.com/mcnortonjosh/github-readme-stats)
+
 <!--
 **mcnortonjosh/mcnortonjosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
